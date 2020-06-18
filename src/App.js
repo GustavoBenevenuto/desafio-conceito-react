@@ -15,7 +15,7 @@ function App() {
     <div>
       <ul data-testid="repository-list">
         <li>
-          Repositório 1
+          Teste
 
           <button onClick={() => handleRemoveRepository(1)}>
             Remover
